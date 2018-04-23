@@ -2,15 +2,22 @@
 
 ## Travels
 
-- mrt map [here](https://www.lta.gov.sg/content/dam/ltaweb/corp/PublicTransport/files/00_System%20Map%20%20with%20NELe-new%20version-Nov17.jpg)
+Download MRT map [here](https://www.lta.gov.sg/content/dam/ltaweb/corp/PublicTransport/files/00_System%20Map%20%20with%20NELe-new%20version-Nov17.jpg)
+
+![mrt map](assets/mrt-map.jpg)
 
 ## Expenses
+
+- Bus Ticket
+- Hotel for 6 nights
 
 ## Accomodation
 
 - Hotel Snow Lavendar. [View](https://www.google.com/maps/search/mrt/@1.310994,103.8528692,15z/data=!3m1!4b1!4m11!2m10!3m6!1smrt!2s26+Cavan+Road,+Hotel+Snow+Lavender,+Singapore+209854!3s0x31da19c966664bcb:0x1cbb22500bc1e4f0!4m2!1d103.861624!2d1.310994!5m2!5m1!1s2018-04-30) MRT Stations nearby
 
-## Itirinery
+![lavendar snow mrts](assets/lavendar-snow-mrt-stations.png)
+
+## Itirinerary
 
 - Monday, April 30th
   - Getting bus, leaving 1u April 30, returning Sunday May 6
@@ -35,9 +42,18 @@
 - ipad + charger
 - broadband (?), need to look for wi-fi somewhere else
 
+## To Visit
+
+TBD.
+
+(╯°□°)╯︵ ┻━┻ ︵ ╯(°□° ╯) 
+
 ## Locations
 
-Gophercon Conference Location: [Marina Bay Sands Expo and Convention Center](https://web.facebook.com/pages/Marina-Bay-Sands-Expo-and-Convention-Center/260182121080938?fref=mentions). [View](https://www.google.com/maps/search/mrt/@1.2824207,103.8498813,15z/data=!3m1!4b1!4m8!2m7!3m6!1smrt!2s1+Bayfront+Ave,+Marina+Bay+Sands+Expo+and+Convention+Centre,+Singapore+018971!3s0x31da1905a913542d:0x81a3ad206e972c35!4m2!1d103.8586361!2d1.2824207) nearby MRT. [Directions](https://www.google.com/maps/dir/Hotel+Snow+Lavender,+26+Cavan+Road,+Singapore+209854/Marina+Bay+Sands+Expo+and+Convention+Centre,+1+Bayfront+Ave,+Singapore+018971/@1.2950328,103.8370809,14z/data=!4m14!4m13!1m5!1m1!1s0x31da19c966664bcb:0x1cbb22500bc1e4f0!2m2!1d103.861624!2d1.310994!1m5!1m1!1s0x31da1905a913542d:0x81a3ad206e972c35!2m2!1d103.8586361!2d1.2824207!5i2) from Lavendar Snow Hotel
+Gophercon Conference will be held in [Marina Bay Sands Expo and Convention Center](https://web.facebook.com/pages/Marina-Bay-Sands-Expo-and-Convention-Center/260182121080938?fref=mentions). [View](https://www.google.com/maps/search/mrt/@1.2824207,103.8498813,15z/data=!3m1!4b1!4m8!2m7!3m6!1smrt!2s1+Bayfront+Ave,+Marina+Bay+Sands+Expo+and+Convention+Centre,+Singapore+018971!3s0x31da1905a913542d:0x81a3ad206e972c35!4m2!1d103.8586361!2d1.2824207) nearby MRT. View direction from Hotel Lavendar Snow in [Google Map](https://www.google.com/maps/dir/Hotel+Snow+Lavender,+26+Cavan+Road,+Singapore+209854/Marina+Bay+Sands+Expo+and+Convention+Centre,+1+Bayfront+Ave,+Singapore+018971/@1.2950328,103.8370809,14z/data=!4m14!4m13!1m5!1m1!1s0x31da19c966664bcb:0x1cbb22500bc1e4f0!2m2!1d103.861624!2d1.310994!1m5!1m1!1s0x31da1905a913542d:0x81a3ad206e972c35!2m2!1d103.8586361!2d1.2824207!5i2).
 
-Gophercon Workshop Location: [Lifelong Learning Institute](https://web.facebook.com/LLISG/?fref=mentions). [View](https://www.google.com/maps/search/mrt/@1.3197616,103.8835591,15z/data=!3m1!4b1!4m8!2m7!3m6!1smrt!2s11+Eunos+Rd+8,+Lifelong+Learning+Institute,+Singapore+408601!3s0x31da18188d9cbf0f:0x366088767c724265!4m2!1d103.8923139!2d1.3197616) MRT stations nearby. See [direction](https://www.google.com/maps/dir/Hotel+Snow+Lavender,+26+Cavan+Road,+Singapore+209854/11+Eunos+Rd+8,+Lifelong+Learning+Institute,+Singapore+408601/@1.3129181,103.8671825,15z/data=!4m14!4m13!1m5!1m1!1s0x31da19c966664bcb:0x1cbb22500bc1e4f0!2m2!1d103.861624!2d1.310994!1m5!1m1!1s0x31da18188d9cbf0f:0x366088767c724265!2m2!1d103.8923139!2d1.3197616!5i2) from Hotel Lavendar Snow via MRT.
+![lavendar-snow-to-marina-bay-expo.png](assets/lavendar-snow-to-marina-bay-expo.png)
 
+Gophercon Workshop Location: [Lifelong Learning Institute](https://web.facebook.com/LLISG/?fref=mentions). [View](https://www.google.com/maps/search/mrt/@1.3197616,103.8835591,15z/data=!3m1!4b1!4m8!2m7!3m6!1smrt!2s11+Eunos+Rd+8,+Lifelong+Learning+Institute,+Singapore+408601!3s0x31da18188d9cbf0f:0x366088767c724265!4m2!1d103.8923139!2d1.3197616) MRT stations nearby. View direction from Hotel Lavendar Snow in [Google Map](https://www.google.com/maps/dir/Hotel+Snow+Lavender,+26+Cavan+Road,+Singapore+209854/11+Eunos+Rd+8,+Lifelong+Learning+Institute,+Singapore+408601/@1.3129181,103.8671825,15z/data=!4m14!4m13!1m5!1m1!1s0x31da19c966664bcb:0x1cbb22500bc1e4f0!2m2!1d103.861624!2d1.310994!1m5!1m1!1s0x31da18188d9cbf0f:0x366088767c724265!2m2!1d103.8923139!2d1.3197616!5i2).
+
+![lavendar-snow-to-lifelong-learning-institute.png](assets/lavendar-snow-to-lifelong-learning-institute.png)
