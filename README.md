@@ -35,6 +35,8 @@ Download MRT map [here](https://www.lta.gov.sg/content/dam/ltaweb/corp/PublicTra
 
 - **passport**
 - **gophercon ticket**
+- bus ticket
+- SGD cash
 - clothes for 7 days
 - toiletries,
 - laptop + charger
