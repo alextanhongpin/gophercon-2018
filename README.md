@@ -42,7 +42,8 @@ Download MRT map [here](https://www.lta.gov.sg/content/dam/ltaweb/corp/PublicTra
 - laptop + charger
 - phone + charger
 - ipad + charger
-- broadband (?), need to look for wi-fi somewhere else
+- There is Singtel Tourist Broadband 100 GB of data for 7 days for just 15 SGD
+
 
 ## To Visit
 
